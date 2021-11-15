@@ -7,6 +7,8 @@ Description :
 
 3. This project is using GUI based for UI
 
+*note : this project need firebase configuration please add manualy in your own project
+
 File Description :
 - "Mask Detection.ipynb" notebook for traning image using MobileNet
 - "Programs" Folder , program for the detection, please run "main.py" to strat the program

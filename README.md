@@ -9,7 +9,7 @@ Description :
 
 File Description :
 - "Mask Detection.ipynb" notebook for traning image using MobileNet
-- "Program" Folder , program for the detection, please run "main.py" to strat the program
+- "Programs" Folder , program for the detection, please run "main.py" to strat the program
 
 Mask Detection :
 ![image](https://user-images.githubusercontent.com/93510081/141809297-64db6321-ee15-418d-a1a3-df036fc3c83c.png)
